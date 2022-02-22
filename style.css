@@ -1,0 +1,23 @@
+.container{
+    width:1000px;
+    margin:auto
+}
+.row{
+    display:flex;
+    flex-wrap: wrap;
+}
+.box1{
+    width:45%;
+    margin:auto
+}
+.box2{
+    width:45%;
+    margin:auto
+}
+.box2 .box3{
+    width:45%;
+    margin:auto
+}
+.sec2 img{
+width:100%;
+}
